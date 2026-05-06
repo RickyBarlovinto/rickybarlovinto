@@ -85,25 +85,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rickybarlovinto.rickybarlovinto"/>
 </div>
-## 📊 GitHub Dashboard
-
-### 🔥 Live Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickybarlovinto&theme=react-dark&hide_border=true" />
-
----
-
-### 📅 Contribution Overview (Monthly / Weekly Insight)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickybarlovinto&theme=tokyonight" />
-
----
-
-### ⚡ Stats Panel (Dynamic Cards)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickybarlovinto&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🌐 Contribution Heatmap Style
-<img src="https://ghchart.rshah.org/rickybarlovinto" />
