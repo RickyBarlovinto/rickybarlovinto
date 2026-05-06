@@ -1,5 +1,5 @@
 <h1 align="center">🔥 Hey, I'm Ricky 👋</h1>
-<h3 align="center">💻 Developer | 🚀 Future Software Engineer | 🐉 Goku Mode</h3>
+<h3 align="center">💻 Developer | 🚀 Future Software Engineer | </h3>
 
 <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="100%" />
 
@@ -9,7 +9,7 @@
 
 * 🔭 Currently working on: **Java & Kotlin Projects**
 * 🌱 Learning: **Full Stack Development**
-* ⚡ Fun fact: **I code better in Super Saiyan mode 😎**
+
 
 ---
 
