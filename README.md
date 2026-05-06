@@ -7,18 +7,15 @@
 <br clear="both">
 
 <div align="center">
-  <div style="display: inline-block; margin-bottom: 20px;">
-    <img src="hacker.gif" height="150" style="margin-right: 40px; border-radius: 8px;"/>
-    <img src="error.gif" height="150" style="margin-left: 40px; border-radius: 8px;"/>
+  <div style="display: flex; justify-content: center; gap: 60px; margin-bottom: 25px;">
+    <img src="hacker.gif" height="150" />
+    <img src="error.gif" height="150" />
   </div>
-  
-  <br />
 
-  <div style="margin-top: 15px;">
-    <img src="sad.gif" height="120" style="border-radius: 8px;"/>
+  <div>
+    <img src="sad.gif" height="120" />
   </div>
 </div>
-
 ---
 
 <h1 align="center">Hey, I'm Ricky Barlovinto ⚡</h1>
