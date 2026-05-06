@@ -1,3 +1,4 @@
+
 <br clear="both">
 
 <div>
@@ -38,24 +39,34 @@
 
 ## 🧠 About Me
 - 🔭 Building: Web & Mobile Applications  
-- 🌱 Learning: Full Stack Development & AI  
+- 🌱 Learning: Full Stack Development & AI Systems  
 - ⚡ Focus: Clean architecture + scalable systems  
 
 ---
 
-## 🔥 GitHub Activity Overview
+## 📊 GitHub Activity
 
-### 📊 Contribution Activity Graph
+### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickybarlovinto&theme=react-dark&hide_border=true" />
 
 ---
 
-### 📅 Contribution Summary (Daily / Weekly / Monthly view)
+### 📅 Profile Summary (Weekly / Monthly Activity)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickybarlovinto&theme=tokyonight" />
 
 ---
 
-## 🐍 Contribution Snake (Green Dots Animation)
+## 👾 Contribution Animation (Pacman Style)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🐍 Contribution Snake (Nokia Style)
 
 ![snake gif](https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg)
 
@@ -73,20 +84,11 @@
 
 ---
 
-## 📈 Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=dracula" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rickybarlovinto&theme=dracula" height="150"/>
-
-</div>
+## ⚡ Philosophy
+> “Build. Break. Improve. Repeat.”
 
 ---
 
-## 🏆 Achievements
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rickybarlovinto&theme=dracula&no-frame=true&column=4"/>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rickybarlovinto.rickybarlovinto"/>
 </div>
