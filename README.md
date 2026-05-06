@@ -10,27 +10,54 @@
 
 <h1 align="center">Hey, I'm rickybarlovinto ⚡</h1>
 
-<h3 align="center">💻 Developer | 🚀 Builder | </h3>
+<h3 align="center">💻 Developer | 🚀 Builder</h3>
 
 ---
 
+## ⚙️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50"/>
+<img width="10"/>
+
+<img src="https://skillicons.dev/icons?i=py" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
+
 </div>
 
 ---
 
 ## 🧠 About Me
-- 🔭 Building: Web & Mobile App systems  
-- 🌱 Learning: Full Stack + AI systems  
-- ⚡ Motto: *“Break it. Fix it. Upgrade it.”*
+- 🔭 Building: Web & Mobile Applications  
+- 🌱 Learning: Full Stack Development & AI  
+- ⚡ Focus: Clean architecture + scalable systems  
+
+---
+
+## 🔥 GitHub Activity Overview
+
+### 📊 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickybarlovinto&theme=react-dark&hide_border=true" />
+
+---
+
+### 📅 Contribution Summary (Daily / Weekly / Monthly view)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickybarlovinto&theme=tokyonight" />
+
+---
+
+## 🐍 Contribution Snake (Green Dots Animation)
+
+![snake gif](https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -46,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=dracula" height="150"/>
@@ -63,18 +90,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=rickybarlovinto&theme=dracula&no-frame=true&column=4"/>
 
 </div>
-
----
-
-## 🧩 Languages
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickybarlovinto&layout=compact&theme=dracula"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-```md
-![snake gif](https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg)
