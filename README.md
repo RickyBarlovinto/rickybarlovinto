@@ -66,7 +66,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Nokia Style)
+## 🐍 Contribution Snake 
 
 ![snake gif](https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg)
 
