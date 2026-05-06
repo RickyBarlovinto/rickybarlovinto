@@ -50,8 +50,18 @@
 
 ---
 
-### 📅 Contribution Summary (Weekly / Monthly View)
+### 📅 Contribution Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickybarlovinto&theme=tokyonight" />
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake gif" src="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
