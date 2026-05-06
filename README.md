@@ -1,70 +1,55 @@
-<h1 align="center">🔥 Hey, I'm Ricky 👋</h1>
-<h3 align="center">💻 Developer | 🚀 Future Software Engineer | </h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="100%" />
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-## 🧠 About Me
+###
 
-* 🔭 Currently working on: **Java & Kotlin Projects**
-* 🌱 Learning: **Full Stack Development**
+<h1 align="center">hey there 👋</h1>
 
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## ⚔️ Tech Stack
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
----
+###
 
-## 📊 GitHub Stats (Power Level 📈)
+<h3 align="left">🛠 Language and tools</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-## 🔥 Streak Stats (Training Arc 💪)
+###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<h3 align="left">🔥   My Stats :</h3>
 
----
-
-## 🧬 Top Languages (Skills ⚡)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Energy Flow)
-
-![snake gif](https://github.com/RickyBarlovinto/RickyBarlovinto/blob/output/github-contribution-grid-snake.svg)
-
-
-## 🎯 Goals (Next Transformation 🚀)
-
-* 🔥 Build Full Stack Apps
-* 📱 Publish Android Apps
-* 🌍 Become Pro Developer
-
----
-
-## 🐉 Quote
-
-> "Power comes in response to a need, not a desire." – Goku
-
----
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+###
