@@ -6,26 +6,28 @@
 
 <br clear="both">
 
-
+<!-- GIF SECTION FIXED ALIGNMENT -->
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="hacker.gif" height="150"/>
       </td>
-      <td>
+      <td align="center">
         <img src="error.gif" height="150"/>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="right">
+      <td colspan="2" align="center">
         <img src="sad.gif" height="120"/>
       </td>
     </tr>
   </table>
 </div>
 
-<h1 align="center">Hey, I'm rickybarlovinto ⚡</h1>
+---
+
+<h1 align="center">Hey, I'm Ricky Barlovinto ⚡</h1>
 
 <h3 align="center">💻 Developer | 🚀 Builder</h3>
 
@@ -74,15 +76,12 @@
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
 ## 🔗 Connect With Me
+
 <div align="center">
 
 ![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge)
