@@ -6,11 +6,10 @@
 
 <br clear="both">
 
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/main/hacker.gif" />
-
-
-<img align="left" height="150" src="https://media.giphy.com/media/S8rEAbtG4WA2ULH7CH/giphy.gif" />
+<!-- ✅ TOP CENTERED GIF -->
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/main/hacker.gif" />
+</p>
 
 <h1 align="center">Hey, I'm rickybarlovinto ⚡</h1>
 
