@@ -6,7 +6,11 @@
 
 <br clear="both">
 
+
 <img align="right" height="150" src="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/main/hacker.gif" />
+
+
+<img align="left" height="150" src="https://media.giphy.com/media/S8rEAbtG4WA2ULH7CH/giphy.gif" />
 
 <h1 align="center">Hey, I'm rickybarlovinto ⚡</h1>
 
@@ -60,7 +64,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snake gif" src="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
