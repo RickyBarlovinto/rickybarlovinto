@@ -6,23 +6,17 @@
 
 <br clear="both">
 
-<!-- GIF SECTION FIXED ALIGNMENT -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="hacker.gif" height="150"/>
-      </td>
-      <td align="center">
-        <img src="error.gif" height="150"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="sad.gif" height="120"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; margin-bottom: 20px;">
+    <img src="hacker.gif" height="150" style="margin-right: 40px; border-radius: 8px;"/>
+    <img src="error.gif" height="150" style="margin-left: 40px; border-radius: 8px;"/>
+  </div>
+  
+  <br />
+
+  <div style="margin-top: 15px;">
+    <img src="sad.gif" height="120" style="border-radius: 8px;"/>
+  </div>
 </div>
 
 ---
