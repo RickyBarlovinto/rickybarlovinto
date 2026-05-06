@@ -6,27 +6,23 @@
 
 <br clear="both">
 
-<!-- GIF SECTION (IMPROVED SPACING / CLEAN LAYOUT) -->
+<!-- GIF SECTION FIXED ALIGNMENT -->
 <div align="center">
-
-  <!-- TOP GIFS -->
-  <div style="display: flex; justify-content: center; gap: 80px; margin-bottom: 30px;">
-
-    <div style="padding: 10px;">
-      <img src="hacker.gif" height="150"/>
-    </div>
-
-    <div style="padding: 10px;">
-      <img src="error.gif" height="150"/>
-    </div>
-
-  </div>
-
-  <!-- BOTTOM GIF -->
-  <div style="margin-top: 10px;">
-    <img src="sad.gif" height="140"/>
-  </div>
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="hacker.gif" height="150"/>
+      </td>
+      <td align="center">
+        <img src="error.gif" height="150"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="sad.gif" height="120"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
