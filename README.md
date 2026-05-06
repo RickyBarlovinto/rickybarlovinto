@@ -1,4 +1,3 @@
-
 <br clear="both">
 
 <div>
@@ -51,24 +50,8 @@
 
 ---
 
-### 📅 Profile Summary (Weekly / Monthly Activity)
+### 📅 Contribution Summary (Weekly / Monthly View)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickybarlovinto&theme=tokyonight" />
-
----
-
-## 👾 Contribution Animation (Pacman Style)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 🐍 Contribution Snake 
-
-![snake gif](https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
