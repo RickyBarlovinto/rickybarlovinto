@@ -7,14 +7,21 @@
 <br clear="both">
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 60px; margin-bottom: 25px;">
-    <img src="hacker.gif" height="150" />
-    <img src="error.gif" height="150" />
-  </div>
-
-  <div>
-    <img src="sad.gif" height="120" />
-  </div>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background: transparent;">
+    <tr>
+      <td align="center" style="border: none; padding: 0 50px 30px 0;">
+        <img src="hacker.gif" height="150" />
+      </td>
+      <td align="center" style="border: none; padding: 0 0 30px 50px;">
+        <img src="error.gif" height="150" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="border: none; padding-top: 20px;">
+        <img src="sad.gif" height="120" />
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 
