@@ -91,15 +91,19 @@
 
 ---
 
-<!-- FIXED GITHUB STATS TITLE -->
+<!-- GITHUB STATS -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickybarlovinto&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
