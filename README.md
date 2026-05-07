@@ -21,92 +21,114 @@
 
 ---
 
-<!-- NEON ANIMATED TEXT -->
+<!-- NEON INTRO -->
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ricky+Barlovinto+⚡" />
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=💻+Developer+%7C+🚀+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ricky+Barlovinto+⚡;Welcome+to+my+Cyber+Space" />
 
 <br>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=💻+Developer+%7C+🚀+Builder+%7C+Hacker+Mode+Enabled" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=⚙️+Tech+Stack" />
 
 </div>
 
 ---
+
+<!-- TECH STACK -->
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50"/>
-<img width="10"/>
-
-<img src="https://skillicons.dev/icons?i=py" height="50"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=angular,kotlin,python,java,javascript,mysql,php,laravel,androidstudio&theme=dark" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+<!-- ABOUT -->
 
-- 🔭 Building: Web & Mobile Applications  
-- 🌱 Learning: Full Stack Development & AI Systems  
-- ⚡ Focus: Clean architecture + scalable systems  
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00FFD5&center=true&vCenter=true&width=500&lines=🧠+About+Me" />
+
+</div>
+
+```bash
+> 🔭 Building: Web & Mobile Applications
+> 🌱 Learning: Full Stack Development & AI Systems
+> ⚡ Focus: Clean architecture + scalable systems
+```
 
 ---
 
-# 📊 GitHub Activity
+<!-- GITHUB ACTIVITY -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Activity" />
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickybarlovinto&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickybarlovinto&theme=react-dark&hide_border=true&area=true" />
 
 ---
 
 ## 📅 Contribution Summary
 
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickybarlovinto&theme=tokyonight" />
 
----
-
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
 ---
 
-# 🔗 Connect With Me
+<!-- GITHUB STATS -->
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rickybarlovinto&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- DARK HACKER SNAKE -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🐍+Contribution+Snake" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/rickybarlovinto/rickybarlovinto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<!-- SOCIALS -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FFAE00&center=true&vCenter=true&width=600&lines=🔗+Connect+With+Me" />
+
+<br><br>
+
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://discord.com">
@@ -118,19 +140,42 @@
 </a>
 
 <a href="https://instagram.com">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ⚡ Philosophy
+<!-- PHILOSOPHY -->
 
-> “Build. Break. Improve. Repeat.”
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=600&lines=⚡+Philosophy" />
+
+<br>
+
+```diff
++ Build.
+# Break.
+- Improve.
+! Repeat.
+```
+
+</div>
 
 ---
 
+<!-- VISITOR BADGE -->
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rickybarlovinto.rickybarlovinto"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rickybarlovinto.rickybarlovinto&left_color=black&right_color=00F7FF"/>
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&animation=fadeIn&textBg=false&theme=cobalt" />
 </div>
