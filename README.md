@@ -97,13 +97,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=rickybarlovinto&theme=tokyonight&hide_border=true" />
-
 </div>
-
----
 
 <!-- DARK HACKER SNAKE -->
 
