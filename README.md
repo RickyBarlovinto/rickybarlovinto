@@ -21,19 +21,17 @@
 
 ---
 
-<!-- NEON TEXT -->
+<!-- NEON ANIMATED TEXT -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ricky+Barlovinto+⚡" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ricky+Barlovinto+⚡" />
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=💻+Developer+%7C+🚀+Builder" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=💻+Developer+%7C+🚀+Builder" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=⚙️+Tech+Stack" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack" />
 
 </div>
 
@@ -71,7 +69,7 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 - 🔭 Building: Web & Mobile Applications  
 - 🌱 Learning: Full Stack Development & AI Systems  
@@ -79,21 +77,21 @@
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickybarlovinto&theme=react-dark&hide_border=true" />
 
 ---
 
-### 📅 Contribution Summary
+## 📅 Contribution Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickybarlovinto&theme=tokyonight" />
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rickybarlovinto/rickybarlovinto/blob/output/github-contribution-grid-snake-dark.svg">
@@ -103,23 +101,31 @@
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge)
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge)
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge)
+<a href="https://facebook.com">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge)
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ⚡ Philosophy
+# ⚡ Philosophy
 
 > “Build. Break. Improve. Repeat.”
 
