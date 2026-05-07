@@ -91,15 +91,15 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- FIXED GITHUB STATS TITLE -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rickybarlovinto&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rickybarlovinto&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
